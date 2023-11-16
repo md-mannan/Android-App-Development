@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+<!--    custom color-->
+    <color name="before">#1EAC3D</color>
+    <color name="after">#00BCD4</color>
+    <color name="text">#fff</color>
 </resources>
